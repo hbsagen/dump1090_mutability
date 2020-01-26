@@ -2,7 +2,7 @@
  
  run in terminal
  
- ./dump1090 --interactive --modeac --mlat --write-json /usr/local/var/dump1090-mut-data
+ ./dump1090 --interactive --modeac --write-json /usr/local/var/dump1090-mut-data
  
  from inside the folder and watch the planes identified in the terminal window.
  
