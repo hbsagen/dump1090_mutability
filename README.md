@@ -1,3 +1,14 @@
+ Works with MacOS 10.15.2 and FlightAware Pro Stick
+ 
+ run in terminal
+ 
+ ./dump1090 --interactive --modeac --mlat --write-json /usr/local/var/dump1090-mut-data
+ 
+ from inside the folder and watch the planes identified in the terminal window.
+ 
+ 
+
+
 # HEY, THIS IS OLD CODE
 
 This fork sees very little maintenance and is really only here for historical reasons.
